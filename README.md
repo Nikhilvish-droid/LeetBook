@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
