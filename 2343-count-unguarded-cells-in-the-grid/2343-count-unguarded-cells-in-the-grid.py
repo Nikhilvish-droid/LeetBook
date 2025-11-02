@@ -28,7 +28,6 @@ class Solution:
         for x, y in guards:
             watch(x, y)
 
-        # Count unguarded cells
         ans = 0
         for r in range(m):
             for c in range(n):
