@@ -5,7 +5,8 @@ class Solution:
         for i in range(len(arr)-1):
             d=arr[i+1]-arr[i]
             if d != ans :
-                return False         
+                return False  
+                       
         return True
 
             
