@@ -4,7 +4,7 @@ class Solution:
         for no in s :
             if no=="1" :
                 cnt +=1
+                tot =tot+cnt
             else:
                 cnt = 0
-            tot =tot+cnt
         return tot%1000000007
