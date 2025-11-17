@@ -1,19 +1,9 @@
-class Solution(object):
-    def kLengthApart(self, nums, k):
-        
-        distance = 0
-        found = False
-        
-        for num in nums:
-            if num == 1:
-                
-                if distance <= k and found:
-                    return False 
-                
-                found = True
-
-                distance = 0
-            
-            distance += 1
-
+class Solution:
+    def kLengthApart(self, nums: List[int], k: int) -> bool:
+        n, last=len(nums), -200
+        for i, x in enumerate(nums):
+            if x==1:
+                if i-last-1<k: return False
+                last=i
         return True
+        
