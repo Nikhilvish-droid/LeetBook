@@ -3,9 +3,6 @@ class Solution:
         l= len(bits) 
         k=0
         while k < l-1:
-            if bits[k]==0:
-                k +=1
-            else:
-                k +=2
+            k += bits[k] +1
         return k == l - 1
 
