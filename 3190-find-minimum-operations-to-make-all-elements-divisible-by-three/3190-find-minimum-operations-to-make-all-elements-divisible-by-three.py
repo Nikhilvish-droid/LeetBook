@@ -1,9 +1,4 @@
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
-        opr = 0
-        for val in nums :
-            rem = val%3
-            if rem == 2:
-                rem = 1
-            opr += rem 
+        opr = sum(list(map(lambda x : 1 if x%3 == 2 else x%3 , nums)))
         return opr 
