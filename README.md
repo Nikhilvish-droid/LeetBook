@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2571-find-the-pivot-integer](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2571-find-the-pivot-integer) |
