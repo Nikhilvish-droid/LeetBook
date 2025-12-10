@@ -10,5 +10,5 @@ class Solution:
         
         fact = 1
         for i in range(2,n) : 
-            fact = fact*i
-        return fact%mod
+            fact = (fact*i)%mod
+        return fact
