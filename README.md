@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2659-make-array-empty) |
 | [3433-count-mentions-per-user](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
