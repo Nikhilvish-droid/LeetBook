@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2659-make-array-empty](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2659-make-array-empty) |
@@ -150,20 +151,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
