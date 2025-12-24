@@ -8,7 +8,5 @@ class Solution:
         while app_sum > 0 :
             app_sum -=capacity[i]
             count +=1
-            if i == len(capacity):
-                break
             i +=1
         return count
