@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2659-make-array-empty) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3433-count-mentions-per-user) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2659-make-array-empty](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2659-make-array-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3606-coupon-code-validator) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2659-make-array-empty](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2659-make-array-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
