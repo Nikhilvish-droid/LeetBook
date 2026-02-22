@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
