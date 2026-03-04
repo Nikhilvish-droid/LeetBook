@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1590-make-sum-divisible-by-p) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2625-increment-submatrices-by-one) |
