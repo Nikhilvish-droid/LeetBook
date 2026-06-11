@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1925-count-square-sum-triples](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2288-count-operations-to-obtain-zero) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Database
 |  |
