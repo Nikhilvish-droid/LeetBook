@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0176-second-highest-salary) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
