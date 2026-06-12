@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2540-minimum-common-value) |
