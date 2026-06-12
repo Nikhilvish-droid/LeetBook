@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0014-longest-common-prefix) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
