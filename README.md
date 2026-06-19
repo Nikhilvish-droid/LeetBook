@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1590-make-sum-divisible-by-p) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1732-find-the-highest-altitude) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2571-find-the-pivot-integer](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2571-find-the-pivot-integer) |
