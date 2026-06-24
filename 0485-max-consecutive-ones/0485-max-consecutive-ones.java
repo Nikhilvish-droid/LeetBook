@@ -4,7 +4,7 @@ class Solution {
         for(int ele : nums){
             if(ele == 1){
                 count++;
-                maxans = Math.max(maxans, count);
+                if(count > maxans) maxans = count;
             }
             else{
                 // maxans = Math.max(maxans, count);
