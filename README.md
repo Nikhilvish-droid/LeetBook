@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0645-set-mismatch) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1189-maximum-number-of-balloons) |
