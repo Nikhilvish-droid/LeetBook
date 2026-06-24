@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1470-shuffle-the-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1590-make-sum-divisible-by-p) |
