@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0014-longest-common-prefix) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0944-delete-columns-to-make-sorted) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
