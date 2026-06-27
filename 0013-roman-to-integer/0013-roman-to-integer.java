@@ -1,49 +1,28 @@
 class Solution {
     public int romanToInt(String s) {
         int ans = 0;
-        int n = s.length();
-        int i = 0;
-        while(i < n){
-            if(s.charAt(i) == 'M') ans += 1000;
-            else if(s.charAt(i)== 'C'){
-                if(i+1 < n && s.charAt(i+1) == 'M'){
-                    ans += 900;
-                    i++;
-                }
-                else if(i+1 < n && s.charAt(i+1)=='D'){
-                    ans += 400;
-                    i++;
-                }
-                else ans += 100;
-            }
+        for(int i = 0; i < s.length(); i++){
+            int curr = value(s.charAt(i));
 
-            else if(s.charAt(i) == 'D') ans += 500;
-            else if(s.charAt(i)== 'X'){
-                if(i+1 < n && s.charAt(i+1) == 'C'){
-                    ans += 90;
-                    i++;
-                }
-                else if(i+1 < n && s.charAt(i+1)=='L'){
-                    ans += 40;
-                    i++;
-                }
-                else ans += 10;
+            if(i + 1 < s.length() &&  curr < value(s.charAt(i+1))){
+                ans -= curr;
             }
-            else if(s.charAt(i) == 'L') ans += 50;
-            else if(s.charAt(i)== 'I'){
-                if(i+1 < n && s.charAt(i+1) == 'X'){
-                    ans += 9;
-                    i++;
-                }
-                else if(i+1 < n && s.charAt(i+1)=='V'){
-                    ans += 4;
-                    i++;
-                }
-                else ans += 1;
+            else{
+                ans += curr;
             }
-            else if(s.charAt(i) == 'V') ans += 5;
-            i++;
         }
-        return ans;   
+        return ans;
+    }
+    private int value(char ch) {
+        switch (ch) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+        }
+        return 0;
     }
 }
