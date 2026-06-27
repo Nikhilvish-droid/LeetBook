@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0012-integer-to-roman) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0014-longest-common-prefix) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0944-delete-columns-to-make-sorted) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
