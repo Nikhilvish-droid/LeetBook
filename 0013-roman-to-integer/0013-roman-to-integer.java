@@ -5,8 +5,7 @@ class Solution {
             int curr = value(s.charAt(i));
 
             if(i + 1 < s.length() &&  curr < value(s.charAt(i+1))){
-                ans += value(s.charAt(i+1)) - curr;
-                i++;
+                ans -= curr;
             }
             else{
                 ans += curr;
