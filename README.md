@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1344-angle-between-hands-of-a-clock) |
