@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0645-set-mismatch) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0231-power-of-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
