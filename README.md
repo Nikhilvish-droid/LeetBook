@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1344-angle-between-hands-of-a-clock) |
