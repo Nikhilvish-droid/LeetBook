@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2288-count-operations-to-obtain-zero) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Counting
 |  |
