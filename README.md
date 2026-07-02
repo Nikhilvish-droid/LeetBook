@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0292-nim-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0292-nim-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
