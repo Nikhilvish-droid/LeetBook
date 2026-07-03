@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0759-set-intersection-size-at-least-two) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
@@ -401,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
