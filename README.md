@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0960-delete-columns-to-make-sorted-iii) |
