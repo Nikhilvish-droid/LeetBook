@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
