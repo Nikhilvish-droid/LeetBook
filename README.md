@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0278-first-bad-version) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2540-minimum-common-value](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2540-minimum-common-value) |
@@ -410,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0486-predict-the-winner) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
