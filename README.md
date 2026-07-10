@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0088-merge-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0055-jump-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
