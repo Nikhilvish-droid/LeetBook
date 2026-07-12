@@ -16,15 +16,20 @@ class Solution {
                 if(board[row][col] != '.'){
 
                     int boxno = (row/3)*3 + col/3;
-                    if( rows[row].contains(board[row][col]) || cols[col].contains(board[row][col]) || boxes[boxno].contains(board[row][col]) ){
+
+                    if( rows[row].contains(board[row][col])){
                         return false;
-                    } 
-                    else{
-                        rows[row].add(board[row][col]);
-                        cols[col].add(board[row][col]);
-                        boxes[boxno].add(board[row][col]);
+                    }
+                    if(cols[col].contains(board[row][col])){
+                        return false;
+                    }
+                    if(boxes[boxno].contains(board[row][col])){
+                        return false;
                     }
 
+                    rows[row].add(board[row][col]);
+                    cols[col].add(board[row][col]);
+                    boxes[boxno].add(board[row][col]);
                 }
             }
         }
