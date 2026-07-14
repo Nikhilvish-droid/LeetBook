@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Tree
