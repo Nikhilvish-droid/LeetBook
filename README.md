@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1925-count-square-sum-triples](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2571-find-the-pivot-integer](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2571-find-the-pivot-integer) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
