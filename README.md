@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1260-shift-2d-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/nikhilvish847-droid/LeetBook/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilvish847-droid/LeetBook/tree/master/2288-count-operations-to-obtain-zero) |
