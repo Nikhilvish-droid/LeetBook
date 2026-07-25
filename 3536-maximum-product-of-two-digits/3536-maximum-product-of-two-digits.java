@@ -1,16 +1,13 @@
 class Solution {
     public int maxProduct(int n) {
+        int first = 0, second = 0;
         if(n/100 == 0){
-            int first = n/10;
-            int second = n%10;
-            System.out.println(first +" "+ second);
+            first = n/10;
+            second = n%10;
             return first*second;
         }
-        int first = 0, second = 0;
-        int x = n;
-        while(x > 0){
-            int rem = x%10;
-            System.out.println(first +" "+ second+ " " + rem);
+        while(n > 0){
+            int rem = n%10;
             if(first < rem){
                 second = first;
                 first = rem;;
@@ -19,7 +16,7 @@ class Solution {
                 second = rem;
             }
 
-            x /= 10;
+            n /= 10;
         }
 
         return first*second;
