@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nikhilvish847-droid/LeetBook/tree/master/3625-count-number-of-trapezoids-ii) |
