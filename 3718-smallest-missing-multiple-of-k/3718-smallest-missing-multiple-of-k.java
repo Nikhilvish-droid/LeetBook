@@ -9,10 +9,7 @@ class Solution {
             }
         }
         int i = k;
-        while(true){
-            if(!map.getOrDefault(k, false)){
-                break;
-            }
+        while(map.getOrDefault(k, false)){
             k += i;
         }
 
